@@ -7,6 +7,6 @@ is rendered with a distance matched to the distance of the caught object
 
 Additional ideas for improvement
 -size matching of shapes
--means squared an similar loss functions from a point of reference
+-means squared and similar loss functions from a point of reference
 -fitting best fit equations to edges and matching these instead
--designed a neaural network that takes the two images as input and renders the output
+-designed a neural network that takes the two images as input and renders the output
