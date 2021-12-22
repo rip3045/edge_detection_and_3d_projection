@@ -2,7 +2,7 @@
 
 the system is designed to interface with usb cameras with a measured fov
 
-By running edge detection on the caught immages and attempting to match angle values between pixels, a 3d projection 
+By running edge detection on the caught images and attempting to match angle values between pixels, a 3d projection 
 is rendered with a distance matched to the distance of the caught object
 
 Additional ideas for improvement
